@@ -9,36 +9,36 @@ cme_distrib.md
 Not all the companies still exist or are under these names as the source doesn't update the list. Just a public source, and accuracy is not guaranteed or asserted. All information should be manually checked and cleaned.
 
 ---
-"ACTIV Financial Systems, Inc.
+1. "ACTIV Financial Systems, Inc.
 212-599-1600
 sales@activfinancial.com"
 
-"Agencia Estado Ltda
+2. "Agencia Estado Ltda
 +5511 3856 3500
 atende.ae@estadao.com"
 
-"Agritel
+3. "Agritel
 +00331 5305 9670
 webmaster@agritel.com"
 
-"Anova Technologies, LLC
+4. "Anova Technologies, LLC
 +1 312 540 9594x1104
 skenik@anova-tech.com"
 
-"Arcadium Technologies, LLC.
+5. "Arcadium Technologies, LLC.
 +1 212 931 9040
 info@arcadiumtechnologies.com"
 
-"ARIVA.DE AG
+6. "ARIVA.DE AG
 https://www.ariva.ag
 +49 431 97108 1898
 anfrage@ariva.de"
 
-"Artis Works LTD
+7. "Artis Works LTD
 +44 20 7042 9370
 info@artis.works"
 
-"Aspect Enterprise Solutions
+8. "Aspect Enterprise Solutions
 UK +44 20 7632 0170
 US +1 847 866 8689
 Russia +7 495 925 7245
@@ -47,79 +47,79 @@ SteveHughes@aspectenterprise.com
 moreinfo@aspectenterprise.com"
 Market Data Vendor CME
 
-"ATPlatform Technology Limited
+9. "ATPlatform Technology Limited
 +86(755)82720518
 pre-sales@atplatform.cn"
 
-"Barchart
+10. "Barchart
 +1 866 333 7587 | +1 312 566 9235
 sales@barchart.com"
 
-"Bloomberg
+11. "Bloomberg
 +1 212 617 2000
 exchanges@bloomberg.net"
 
-"Bluewater Trading Solutions
+12. "Bluewater Trading Solutions
 +1 312 361 3895
 support@bluewatertradingsolutions.com"
 
-"BOCOM International Securities Limited
+13. "BOCOM International Securities Limited
 (852) 3710-3328
 enquiry@bocomgroup.com"
 
-"Bright Smart Futures & Commodities Company Limited
+14. "Bright Smart Futures & Commodities Company Limited
 +852 2532 7888
 online@bsgroup.com.hk"
 
-"BSO Limited
+15. "BSO Limited
 +44 207 222 4555
 tony.jones@bsonetwork.com"
 
-"Carsten Tech LLC
+16. "Carsten Tech LLC
 +1 307 414 1492
 info@carstentech.com"
 
-"CenturyLink
+17. "CenturyLink
 +1 630 229 8724
 Alicia.vandeveer@centurylink.com"
 
-"CES Capital International (Hong Kong) Co., Limited
+18. "CES Capital International (Hong Kong) Co., Limited
 +852 8198 9900
 xgkf@kiiik.com"
 Market Data Vendor CME
 
-"CFN Services
+19. "CFN Services
 +1 703 788 6633
 sales@cfnservices.com"
 
-"Changjian Futures (HK) Ltd 
+20. "Changjian Futures (HK) Ltd 
 852 2823 0333
 futures@cjsc.com.hk"
 
-"China Investment Securities International Futures Limited
+21. "China Investment Securities International Futures Limited
 +852 3983 08888
 clientservice@china-invs.hk"
 
-"China Galaxy International Futures (HK) Co., Ltd
+22. "China Galaxy International Futures (HK) Co., Ltd
 +852 3698 6888
 cs@chinastock.com.hk"
 
-"China Maike Futures International Limited 
+23. "China Maike Futures International Limited 
 +8 522 885 2968
 cs@maike.com.hk"
 
-"China Securities (International) Brokerage Company Ltd.
+24. "China Securities (International) Brokerage Company Ltd.
 +852 3465 5665
 cs@csci.hk"
 "China Xin Yongan Futures Company Limited
 (852) 2529 7082
 hongkong@yafco.com"
 
-"China Yinsheng Securities Limited
+25. "China Yinsheng Securities Limited
 +852 2813 6828
 info@chinayss.com.hk"
 
-"CIMB Securities (Singapore) Pte Ltd
+26. "CIMB Securities (Singapore) Pte Ltd
 +65 6671 9900
 sg.marketingfutures@cimb.com"
 
