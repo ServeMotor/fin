@@ -123,91 +123,93 @@ info@chinayss.com.hk"
 +65 6671 9900
 sg.marketingfutures@cimb.com"
 
-"Cinda International Futures Limited
+27. "Cinda International Futures Limited
 +852 2235 7888
 futures@cinda.com.hk"
-
 Market Data Vendor CME
-"Cinda International Futures Limited
+
+28. "Cinda International Futures Limited
 +852 2235 7888
 futures@cinda.com.hk"
 
-"CMA - Consultoria, Metodos, Assessoria e Mercantil S/A
+29. "CMA - Consultoria, Metodos, Assessoria e Mercantil S/A
 +1 212 382 1822
 marketinfo@cma.net"
 
-"CMB International Futures Limited
+30. "CMB International Futures Limited
 +852 3900 0888
 futures@cmbi.com.hk"
 
-"CN First International Futures Limited
+31. "CN First International Futures Limited
 +852 2581 1184
 cnfserivce@cnfirst.com.hk"
 
-"CNBC
+32. "CNBC
 +1 212 735 4869
 Peter.Macaluso@nbcuni.com"
 
-"Commodity Systems, Inc. (CSI)
+33. "Commodity Systems, Inc. (CSI)
 +1 561 392 8663 | +1 800 274 4727
 info@csidata.com"
 
-"Computer Voice Systems, Inc.
+34. "Computer Voice Systems, Inc.
 +1 312 980 8200
 sales@quickscreentrading.com"
 
-"Core Pacific Yamaichi Futures (H.K.) Limited
+35. "Core Pacific Yamaichi Futures (H.K.) Limited
 +852 2166 3888
 cs@cpy.com.hk"
 
-"Convoy Investment Services Limited
+36. "Convoy Investment Services Limited
 +852 3601 3737
 cisinfo@convoy.com.hk"
 
-"CQG
+37. "CQG
 +1 800 525 7082
 websales@cqg.com"
-
 Market Data Vendor CME
-"Cunningham Trading Systems, LLC (CTS)
+
+38. "Cunningham Trading Systems, LLC (CTS)
 +1 866 379 1289
 sales@ctsfutures.com"
 
-"DairyVisor Inc.
+39. "DairyVisor Inc.
 +1 320 634 3771
 jspader@dairyvisor.com"
-"Databento, Inc.
+
+40. "Databento, Inc.
 +1 (857) 600-2005
 support@databento.com"
 
-"Enverus
+41. "Enverus
 +44 203 651 5560
 info@datagenicgroup.com"
 
-"Devexperts
+42. "Devexperts
 +1 201 633 4740
 info@devexperts.com"
 
-"DIRECTFN
+43. "DIRECTFN
 +971 4 3211167
 info@directfn.com"
 "Drillinginfo Inc.
 +312 628 2900
 sales@marketview.com"
 
-"DTN, LLC
+44. "DTN, LLC
 +1 800 652 2291
 prosales@dtn.com"
 
-"Edaily
+45. "Edaily
 +82 2 3772 0325
 yeosh@edaily.co.kr"
-"Emperor Futures Limited
+
+46. "Emperor Futures Limited
 852 2919 2919
 efl.cs@emperorgroup.com"
-
 Market Data Vendor CME
-"Essence Futures (HK) Limited 
+
+47. "Essence Futures (HK) Limited 
 +852 221 3888
 service@eif.com/hk"
 
