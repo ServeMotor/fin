@@ -13,14 +13,14 @@
     
     BIPROGY株式会社                        システム開発	
     
-    bluecode株式会社
-    コンサルティング	
-    BofA証券株式会社
-    証券会社	
-    Chubb 損害保険株式会社
-    保険会社	
-    Coltテクノロジーサービス株式会社
-    コンサルティング	
+    bluecode株式会社                       コンサルティング	
+    
+    BofA証券株式会社                        証券会社	
+    
+    Chubb 損害保険株式会社                  保険会社	
+    
+    Coltテクノロジーサービス株式会社          コンサルティング	
+    
     Concordium 財団
     通信・IT	
     dacadoo Japan 合同会社
