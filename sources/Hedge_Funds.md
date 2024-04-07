@@ -1,7 +1,7 @@
 ## Global Hedge Funds
 
-1.	[Balyasny Asset Management](https://www.bamfunds.com/) - Algo/Quant Fund
-2.	Bridgewater	Associates	
+1.	[Balyasny Asset Management](https://www.bamfunds.com/) - Asset Manager
+2.	[Bridgewater	Associates](https://www.bridgewater.com/) - Asset Manager
 3.	Garda Capital Partners
 4.	Renaissance	Technologies LLC
 5.	ExodusPoint	Capital	Management
