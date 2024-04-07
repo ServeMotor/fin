@@ -1,4 +1,5 @@
 From [Fintech Association Japan](https://fintechjapan.org/corporate/)
+    
     ADVANCE.AI                           AML/KYC/セキュリティ	
     
     Adyen Japan株式会社                   決済代行	
