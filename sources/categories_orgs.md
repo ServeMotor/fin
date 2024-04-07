@@ -1,49 +1,53 @@
 Category	Buysides
 --
-Buysides	Asset Managers
+Buysides	1. Asset Managers
 
-Buysides	High Frequency Traders
+Buysides	2. High Frequency Traders
 
-Buysides	Market Makers (futures/options)
+Buysides	3. Market Makers (futures/options)
 
-Buysides	Global Banks
+Buysides	4. Global Banks
 
-Buysides	Regional Banks
+Buysides	5. Regional Banks
 
-Buysides	Local Banks
+Buysides	6. Local Banks
 
-Buysides	Government Funds
+Buysides	7. Government Funds
 
-Buysides	Hedge Funds
+Buysides	8. Hedge Funds
 
-Buysides	Commodity  Trading Firms
+Buysides	9. Commodity  Trading Firms
 
-Buysides	Energy Firms 
+Buysides	10. Energy Firms 
 
-Buysides	Inter Dealer Broker
+Buysides	11. Inter Dealer Broker
 
-Buysides	Energy Trading
+Buysides	12. Energy Trading
 
-Buysides	Algo/Quantitative Trading
+Buysides	13. Algo/Quantitative Trading
 
-Buysides	Futures Broker
+Buysides	14. Futures Broker
 
-Buysides	Exchange/Financial Market
+Buysides	15. Exchange/Financial Market
 
-Buysides	Clearinghouses
+Buysides	16. Clearinghouses
 
-Sellsides	Global Wholesale Banks
+Sellsides	17. Global Wholesale Banks
 
-Sellsides	Global Investment Banks
+Sellsides	18. Global Investment Banks
 
-Sellsides	Regional Banks 
+Sellsides	19. Regional Banks 
 
-Sellsides	Regional Investment Banks 
+Sellsides	20. Regional Investment Banks 
 
-Sellsides	Regional Securities Firms 
-Sellsides	National Banks
-Sellsides	National Securities Firms 
+Sellsides	21. Regional Securities Firms 
+Sellsides	22. National Banks
+Sellsides	23. National Securities Firms 
 
+Other
+--
 Other	Financial Information Vendors
+
 Other	IT Vendors/Technology Providers
+
 Other	Telco/Connectivity Provider
