@@ -1,17 +1,18 @@
 
-    ADVANCE.AI                       AML/KYC/セキュリティ	
+    ADVANCE.AI                           AML/KYC/セキュリティ	
     
-    Adyen Japan株式会社               決済代行	
+    Adyen Japan株式会社                   決済代行	
     
-    AIGジャパンホールディングス株式会社   保険会社	
-    Atlas Technologies株式会社
-    コンサルティング	
-    auフィナンシャルホールディングス株式会社
-    金融FG	
-    auペイメント株式会社
-    金融FG	
-    BIPROGY株式会社
-    システム開発	
+    AIGジャパンホールディングス株式会社       保険会社	
+    
+    Atlas Technologies株式会社            コンサルティング	
+    
+    auフィナンシャルホールディングス株式会社    金融FG	
+    
+    auペイメント株式会社                     金融FG	
+    
+    BIPROGY株式会社                        システム開発	
+    
     bluecode株式会社
     コンサルティング	
     BofA証券株式会社
