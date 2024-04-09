@@ -1,47 +1,47 @@
 From [Fintech Association Japan](https://fintechjapan.org/corporate/)
     
-    ADVANCE.AI                           AML/KYC/セキュリティ	
+    ADVANCE.AI                                   AML/KYC/セキュリティ	
     
-    Adyen Japan株式会社                   決済代行	
+    Adyen Japan株式会社                           決済代行	
     
-    AIGジャパンホールディングス株式会社       保険会社	
+    AIGジャパンホールディングス株式会社               保険会社	
     
-    Atlas Technologies株式会社            コンサルティング	
+    Atlas Technologies株式会社                    コンサルティング	
     
-    auフィナンシャルホールディングス株式会社    金融FG	
+    auフィナンシャルホールディングス株式会社            金融FG	
     
-    auペイメント株式会社                     金融FG	
+    auペイメント株式会社                             金融FG	
     
-    BIPROGY株式会社                        システム開発	
+    BIPROGY株式会社                                システム開発	
     
-    bluecode株式会社                       コンサルティング	
+    bluecode株式会社                               コンサルティング	
     
-    BofA証券株式会社                        証券会社	
+    BofA証券株式会社                                証券会社	
     
-    Chubb 損害保険株式会社                  保険会社	
+    Chubb 損害保険株式会社                          保険会社	
     
-    Coltテクノロジーサービス株式会社          コンサルティング	
+    Coltテクノロジーサービス株式会社                  コンサルティング	
     
-    Concordium 財団
-    通信・IT	
-    dacadoo Japan 合同会社
-    システム開発	
-    Dual Life Partners株式会社
-    貸金・カード・与信等	
-    Eight Roads Ventures Japan
-    VC・投資会社	
-    EY ストラテジー・アンド・コンサルティング株式会社
-    コンサルティング	
-    EY新日本有限責任監査法人
-    会計・監査	
-    Fenergo
-    システム開発	
-    Fintertech株式会社
-    その他	
-    freee株式会社
-    経理・PFM	
-    FUEL株式会社
-    不動産/ソーシャルレンディング	
+    Concordium 財団                               通信・IT	
+    
+    dacadoo Japan 合同会社                         システム開発	
+    
+    Dual Life Partners株式会社                     貸金・カード・与信等	
+    
+    Eight Roads Ventures Japan                    VC・投資会社	
+    
+    EY ストラテジー・アンド・コンサルティング株式会社     コンサルティング	
+    
+    EY新日本有限責任監査法人                           会計・監査	
+    
+    Fenergo                                        システム開発	
+    
+    Fintertech株式会社                              その他	
+    
+    freee株式会社                                    経理・PFM	
+    
+    FUEL株式会社                                    不動産/ソーシャルレンディング	
+    
     GeNiE株式会社
     貸金・カード・与信等	
     Global Mobility Service株式会社
