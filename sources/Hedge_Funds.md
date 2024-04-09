@@ -9,7 +9,7 @@
 7.	[Capula	Investment	Management](https://www.capulaglobal.com/)
 8.	[Coatue	Capital](https://www.coatue.com/)
 9.	[Two	Sigma	Investments](https://www.twosigma.com/)
-10.	[Lighthouse	Investment	Partners]()
+10.	[Lighthouse	Investment	Partners](https://www.lighthousepartners.com/)
 
 11.	Haidar Capital Management
 12.	Viking	Global	Investors
