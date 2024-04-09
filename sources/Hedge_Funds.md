@@ -2,14 +2,14 @@
 
 1.	[Balyasny Asset Management](https://www.bamfunds.com/) - Asset Manager
 2.	[Bridgewater	Associates](https://www.bridgewater.com/) - Asset Manager
-3.	Garda Capital Partners
-4.	Renaissance	Technologies LLC
-5.	ExodusPoint	Capital	Management
-6.	Squarepoint	Capital	LLP
-7.	Capula	Investment	Management
-8.	Coatue	Capital	
-9.	Two	Sigma	Investments
-10.	Lighthouse	Investment	Partners
+3.	[Garda Capital Partners](https://jp.gardacp.com/)
+4.	[Renaissance	Technologies LLC](https://www.rentec.com/Home.action?index=true)
+5.	[ExodusPoint	Capital	Management](https://www.exoduspoint.com/)
+6.	[Squarepoint	Capital	LLP](https://www.squarepoint-capital.com/)
+7.	[Capula	Investment	Management](https://www.capulaglobal.com/)
+8.	[Coatue	Capital](https://www.coatue.com/)
+9.	[Two	Sigma	Investments](https://www.twosigma.com/)
+10.	[Lighthouse	Investment	Partners]()
 
 11.	Haidar Capital Management
 12.	Viking	Global	Investors
