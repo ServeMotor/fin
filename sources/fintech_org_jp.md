@@ -42,18 +42,17 @@ From [Fintech Association Japan](https://fintechjapan.org/corporate/)
     
     FUEL株式会社                                    不動産/ソーシャルレンディング	
     
-    GeNiE株式会社
-    貸金・カード・与信等	
-    Global Mobility Service株式会社
-    通信・IT	
-    GMOあおぞらネット銀行株式会社
-    銀行・預金・決済・資金移動業等	
-    GMOクリエイターズネットワーク株式会社
-    広告代理店/マーケティング	
-    GMOペイメントゲートウェイ株式会社
-    決済代行	
-    HENNGE株式会社
-    通信・IT	
+    GeNiE株式会社                                    貸金・カード・与信等	
+    
+    Global Mobility Service株式会社                 通信・IT	
+    
+    GMOあおぞらネット銀行株式会社                      銀行・預金・決済・資金移動業等	
+    
+    GMOクリエイターズネットワーク株式会社                広告代理店/マーケティング	
+    
+    GMOペイメントゲートウェイ株式会社                   決済代行	
+    
+    HENNGE株式会社                                  通信・IT	
     iChain株式会社
     保険会社	
     Ingenico Japan 株式会社
