@@ -1,5 +1,5 @@
 ## Global Hedge Funds
-
+See data at https://fintel.io/top-investors
 1.	[Balyasny Asset Management](https://www.bamfunds.com/) - Asset Manager
 2.	[Bridgewater	Associates](https://www.bridgewater.com/) - Asset Manager
 3.	[Garda Capital Partners](https://jp.gardacp.com/)
