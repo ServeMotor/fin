@@ -18,7 +18,7 @@ Here are categories for sorting different financial instutions involved in elect
 11. Hedge Funds
 12. Commodity  Trading Firms
 13. Energy Firms 
-14. Brokers (FX/Interest Rates/Credit)
+14. Inter Dealer Brokers (FX/Interest Rates/Credit)
 15. Online Securities/E-trading
 16. Energy Traders
 17. Quant/Algo Traders
