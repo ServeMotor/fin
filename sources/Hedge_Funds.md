@@ -11,16 +11,16 @@ See data at https://fintel.io/top-investors
 9.	[Two	Sigma	Investments](https://www.twosigma.com/)
 10.	[Lighthouse	Investment	Partners](https://www.lighthousepartners.com/)
 
-11.	Haidar Capital Management
-12.	Viking	Global	Investors
-13.	Adage	Capital	Management
-14.	Elliott	Management	Corporation
-15.	Marshall	Wace	LLP
-16.	Millennium	Management	
-17.	Tiger	Global	Management
-18.	Element	Capital	Management
-19.	D.	E.	Shaw
-20.	Davidson	Kempner	Capital
+11.	[Haidar Capital Management](https://www.haidarcapital.com/)
+12.	[Viking	Global	Investors](https://vikingglobal.com/)
+13.	[Adage	Capital	Management](https://www.adagecapital.com/)
+14.	[Elliott	Management	Corporation](https://www.elliottmgmt.com/)
+15.	[Marshall	Wace	LLP](https://www.mwam.com/)
+16.	[Millennium	Management](https://www.mlp.com/)
+17.	[Tiger	Global	Management](https://www.tigerglobal.com/)
+18.	[Element	Capital	Management](https://www.elementcapital.com/)
+19.	[D.	E.	Shaw](https://www.deshaw.com/)
+20.	[Davidson	Kempner	Capital](https://www.davidsonkempner.com/)
 
 21.	Farallon	Capital	Management
 22.	Alphadyne	Asset	Management
