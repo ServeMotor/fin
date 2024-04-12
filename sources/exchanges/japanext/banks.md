@@ -1,16 +1,24 @@
-"銘柄コード|（Code）"	"銘柄（Name）"	| Name
+
+
+銘柄コード|（Code）| 銘柄（Name）| Name
 --
+**Global Wholesale Banks**
+
 8306	三菱ＵＦＪフィナンシャル・グループ	MITSUBISHI UFJ FINANCIAL GROUP,INC.
 
 8316	三井住友フィナンシャルグループ	SUMITOMO MITSUI FINANCIAL GROUP,INC.
 
 8411	みずほフィナンシャルグループ	MIZUHO FINANCIAL GROUP,INC.
 
+**National Banks**
+
 7182	ゆうちょ銀行	JAPAN POST BANK CO.,LTD.
 
 8309	三井住友トラスト・ホールディングス	SUMITOMO MITSUI TRUST HOLDINGS,INC.
 
 8308	りそなホールディングス	RESONA HOLDINGS, INC.
+
+**Local Banks**
 
 7186	コンコルディア・フィナンシャルグループ	CONCORDIA FINANCIAL GROUP,LTD.
 
@@ -46,9 +54,13 @@
 
 7189	西日本フィナンシャルホールディングス	NISHI-NIPPON FINANCIAL HOLDINGS,INC.
 
+**Online Banks**
+
 5838	楽天銀行	RAKUTEN BANK,LTD.
 
 8410	セブン銀行	SEVEN BANK,LTD.
+
+**Local Banks**
 
 8358	スルガ銀行	SURUGA BANK LTD.
 
