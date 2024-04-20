@@ -22,7 +22,7 @@ See data at https://fintel.io/top-investors
 19.	[D.	E.	Shaw](https://www.deshaw.com/)
 20.	[Davidson	Kempner	Capital](https://www.davidsonkempner.com/)
 
-21.	Farallon	Capital	Management
+21.	[Farallon	Capital	Management](https://www.faralloncapital.com/)
 22.	Alphadyne	Asset	Management
 23.	Tenaron	Capital	Management
 24.	Orbis	Investment	Management
