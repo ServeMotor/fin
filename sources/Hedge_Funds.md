@@ -26,8 +26,8 @@ See data at https://fintel.io/top-investors
 22.	[Alphadyne	Asset	Management](http://adyne.com/)
 23.	[Tenaron	Capital	Management](https://www.tenaroncapital.com/)
 24.	[Orbis Investment Management](https://www.orbis.com/jp/en/home)
-25.	Sculptor	Capital	Management
-26.	The	Baupost	Group
+25.	[Sculptor	Capital	Management](https://www.sculptor.com/)
+26.	[The	Baupost	Group](https://www.baupost.com/)
 27.	Verition	Fund	Management
 28.	Anchorage	Capital	Group
 29.	Holocene	Advisors	
