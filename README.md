@@ -1,5 +1,63 @@
 # fin - about
 Lists of companies and links in finance. To be cut and pasted into tables, code, word, excel or text.
+Following categories or different versions are applied.
+Buysides
+
+    Asset Managers
+
+    High Frequency Traders
+
+    Market Makers (futures/options)
+
+    Global Banks
+
+    Regional Banks
+
+    Local Banks
+
+    Government Investment Funds
+
+    Hedge Funds
+
+    Commodity Trading Advisors
+
+    Energy Firms
+
+    Inter Dealer Brokers
+
+    Energy Traders
+
+    Algo/Quantitative Traders
+
+    Futures/Options Brokers
+
+    Exchange/Financial Markets
+
+    Clearinghouses
+
+Sellsides
+
+    Global Wholesale Banks
+
+    Global Investment Banks
+
+    Regional Banks
+
+    Regional Investment Banks
+
+    Regional Securities Firms
+
+    National Banks
+
+    National Securities Firms
+
+Other
+
+Financial Information Vendors
+
+IT Vendors/Technology Providers
+
+Telco/Connectivity Provider
 
 ** Disclaimer **
 
