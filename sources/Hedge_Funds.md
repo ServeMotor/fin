@@ -23,8 +23,8 @@ See data at https://fintel.io/top-investors
 20.	[Davidson	Kempner	Capital](https://www.davidsonkempner.com/)
 
 21.	[Farallon	Capital	Management](https://www.faralloncapital.com/)
-22.	Alphadyne	Asset	Management
-23.	Tenaron	Capital	Management
+22.	[Alphadyne	Asset	Management](http://adyne.com/)
+23.	[Tenaron	Capital	Management](https://www.tenaroncapital.com/)
 24.	Orbis	Investment	Management
 25.	Sculptor	Capital	Management
 26.	The	Baupost	Group
