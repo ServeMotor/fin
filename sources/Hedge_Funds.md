@@ -25,7 +25,7 @@ See data at https://fintel.io/top-investors
 21.	[Farallon	Capital	Management](https://www.faralloncapital.com/)
 22.	[Alphadyne	Asset	Management](http://adyne.com/)
 23.	[Tenaron	Capital	Management](https://www.tenaroncapital.com/)
-24.	Orbis	Investment	Management
+24.	[Orbis	Investment	Management](Orbis Investment Management)
 25.	Sculptor	Capital	Management
 26.	The	Baupost	Group
 27.	Verition	Fund	Management
