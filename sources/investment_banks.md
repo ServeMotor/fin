@@ -1,5 +1,5 @@
 ## Investment Banks
-1. Morgan Stanley
+1. [Morgan Stanley](https://www.morganstanley.com/about-us-ir)
 2. Goldman Sachs
 3. JP Morgan
 4. Bank of America
