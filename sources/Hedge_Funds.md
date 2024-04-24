@@ -28,12 +28,12 @@ See data at https://fintel.io/top-investors
 24.	[Orbis Investment Management](https://www.orbis.com/jp/en/home)
 25.	[Sculptor	Capital	Management](https://www.sculptor.com/)
 26.	[The	Baupost	Group](https://www.baupost.com/)
-27.	Verition	Fund	Management
-28.	Anchorage	Capital	Group
-29.	Holocene	Advisors	
-30.	Moore	Capital	Management
+27.	[Verition	Fund	Management](https://www.verition.com/)
+28.	[Anchorage	Capital	Group](https://anchoragecap.com/)
+29.	[Holocene	Advisors](https://www.holoceneadvisors.com/)
+30.	[Moore	Capital	Management](https://www.moorecap.com/login)
 
-31.	Voloridge	Investment	Management
+31.	[Voloridge	Investment	Management](https://www.voloridge.com/)
 32.	Egerton	Capital	
 33.	Caxton	Associates	
 34.	Linden	Advisors	
