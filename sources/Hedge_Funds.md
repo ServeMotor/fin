@@ -34,7 +34,7 @@ See data at https://fintel.io/top-investors
 30.	[Moore	Capital	Management](https://www.moorecap.com/login)
 
 31.	[Voloridge	Investment	Management](https://www.voloridge.com/)
-32.	Egerton	Capital	
+32.	[Egerton	Capital](https://www.egertoncapital.com/?rt=6628f041b5e1d)
 33.	Caxton	Associates	
 34.	Linden	Advisors	
 35.	Baker	Brothers	Investments
