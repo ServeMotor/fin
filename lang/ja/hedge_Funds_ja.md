@@ -18,7 +18,7 @@
 
      コートエ キャピタル
 
-     [ツー シグマ](https://www.twosigma.com/)
+     ツー シグマ [DE Shaw](https://www.twosigma.com/)
 
      ライトハウス・インベストメント・パートナーズ
 
