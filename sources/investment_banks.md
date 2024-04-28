@@ -16,13 +16,10 @@
 [From the FT](https://markets.ft.com/data/league-tables/tables-and-trends/)
 
 ## Top 10 Banks	
-
 | M&A | Equity | Bonds | Loans |
 
-| Top 10 Banks	| Fees
-($m)	| Changes in Fees
-vs. Prev Period* | 
-| ----- | ------ | ----- | 
+| Top 10 Banks	| Fees($m)	| Changes in Fees vs. Prev Period* | 
+|-----|------|-----| 
 | JP Morgan	| 2,009.60	| +15.00%	|
 | Goldman Sachs & Co	| 1,645.86	| +21.00%	|
 | BofA Securities Inc	| 1,522.58	| +39.00%	|
@@ -33,3 +30,4 @@ vs. Prev Period* |
 | BNP Paribas SA	| 525.69	| -5.00%	|
 | Wells Fargo & Co	| 513.97	| +32.00%	|
 | RBC Capital Markets	| 439.69	| -8.00%	| 
+|-----|-----|-----|
