@@ -30,4 +30,4 @@
 | BNP Paribas SA	| 525.69	| -5.00%	|
 | Wells Fargo & Co	| 513.97	| +32.00%	|
 | RBC Capital Markets	| 439.69	| -8.00%	| 
-|-----|-----|-----|
+
