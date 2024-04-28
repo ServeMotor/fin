@@ -35,7 +35,7 @@ See data at https://fintel.io/top-investors
 
 31.	[Voloridge	Investment	Management](https://www.voloridge.com/)
 32.	[Egerton	Capital](https://www.egertoncapital.com/?rt=6628f041b5e1d)
-33.	Caxton	Associates	
+33.	[Caxton	Associates](https://www.caxton.com/)
 34.	Linden	Advisors	
 35.	Baker	Brothers	Investments
 36.	Marathon	Asset	Management
@@ -99,7 +99,7 @@ See data at https://fintel.io/top-investors
 89.	Voleon	Group	
 90.	Emso	Asset	Management
 
-91.	Bardin	Hill	Investmen
+91.	Bardin	Hill	Investment
 92.	Kopernik	Global	Investors
 93.	Kensico	Capital	Management
 94.	Junto	Capital	Management
