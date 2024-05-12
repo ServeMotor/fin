@@ -1,4 +1,8 @@
 1. [E-trading platforms experienced increased share of US equity trading volume in 2023](https://www.thetradenews.com/e-trading-platforms-experienced-increased-share-of-us-equity-trading-volume-in-2023/) The Trade News article -  January 17, 2024 12:53 PM GMT
+2. "...electronic trading platforms captured 44% of buy-side US equities order flow in 2023, up from 42% in 2022."
+3. "Electronic trading has even larger usage among the highest commission-paying institutions, with 59% of their flow by notional value channelled through algorithms and 7% through crossing networks."
+4. "...Although routing to electronic trading continues to rise, high-touch sales trading continues to gain traction, with these highest paying managers increasing high-touch trading by roughly 5% year-on-year."
+5. "....Buy-side desks have reduced their equity trading counterparty lists slightly to an average of 31 brokers, a reduction from 31.5 in 2022."
 
 
 
