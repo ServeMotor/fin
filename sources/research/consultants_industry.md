@@ -1,2 +1,2 @@
-[Coalition Greenwich](https://www.greenwich.com/)
-[Celent](https://www.celent.com/)
+1. [Coalition Greenwich](https://www.greenwich.com/)
+2. [Celent](https://www.celent.com/)
