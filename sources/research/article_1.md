@@ -11,7 +11,7 @@ By Wesley Bray
 
 Trading volumes executed electronically by equity investors increased last year, accelerating the evolution of the US stock trading business into an increasingly complex, technologically driven market structure.
 
-New data from Coalition Greenwich found that *electronic trading platforms captured 44% of buy-side US equities order flow in 2023, up from 42% in 2022*.
+New data from [Coalition Greenwich](https://www.greenwich.com/) found that *electronic trading platforms captured 44% of buy-side US equities order flow in 2023, up from 42% in 2022*.
 
 Roughly 37% of total 2023 volumes were executed through algorithms and/or smart order routers – an increase from 35% – while 7% was directly routed to crossing networks, which remained consistent year-on-year.
 
@@ -25,7 +25,7 @@ Coalition Greenwich noted that this suggests a potential tipping or saturation p
 
 With increasing electronic execution from the buy-side, these firms are also reducing the amount of brokers they use to trade US equities overall.
 
-Buy-side desks have reduced their equity trading counterparty lists slightly to an average of 31 brokers, a reduction from 31.5 in 2022.
+Buy-side desks have reduced their [equity trading counterparty lists](https://www.invescomanagementcompany.ie/dam/jcr:be87d27e-077a-45b0-b650-6d02abcb5911/broker-listing-Ire.pdf) slightly to an average of 31 brokers, a reduction from 31.5 in 2022.
 
 “Sourcing natural liquidity remains the buy-side’s primary determinant in allocating a diminishing commission wallet, and desks are reducing their broker lists while concentrating flow to their top providers,” says Jesse Forster, senior analyst at Coalition Greenwich Market Structure and Technology.
 
