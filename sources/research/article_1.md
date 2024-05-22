@@ -29,5 +29,5 @@ Buy-side desks have reduced their [equity trading counterparty lists](https://ww
 
 “Sourcing natural liquidity remains the buy-side’s primary determinant in allocating a diminishing commission wallet, and desks are reducing their broker lists while concentrating flow to their top providers,” says Jesse Forster, senior analyst at Coalition Greenwich Market Structure and Technology.
 
-“There is one important exception: higher commission payers are expanding their lists to an average of 44.1, indicating a unique trend among top-tier institutions.”
+“There is one important exception: [higher commission payers are expanding their lists](https://www.blackrock.com/corporate/compliance/best-execution-and-order-placement-policy) to an average of 44.1, indicating a unique trend among top-tier institutions.”
 Tagged: Coalition Greenwich
