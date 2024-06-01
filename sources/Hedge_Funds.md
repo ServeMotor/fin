@@ -36,13 +36,13 @@ See data at https://fintel.io/top-investors
 31.	[Voloridge	Investment	Management](https://www.voloridge.com/)
 32.	[Egerton	Capital](https://www.egertoncapital.com/?rt=6628f041b5e1d)
 33.	[Caxton	Associates](https://www.caxton.com/)
-34.	Linden	Advisors	
-35.	Baker	Brothers	Investments
-36.	Marathon	Asset	Management
-37.	Tudor	Investment	Corporation
-38.	King	Street	Capital
-39.	Whale	Rock	Capital
-40.	Altimeter	Capital	Management
+34.	[Linden	Advisors](https://lindenlp.com/)
+35.	[Baker	Brothers	Investments]()
+36.	[Marathon	Asset	Management](https://www.marathonfund.com/)
+37.	[Tudor	Investment	Corporation](https://www.tudor.com/)
+38.	[King	Street	Capital](https://www.kingstreet.com/)
+39.	[Whale	Rock	Capital](https://www.whalerockcapital.com/)
+40.	[Altimeter	Capital	Management](https://www.altimeter.com/home)
 
 41.	Brevan	Howard	Asset
 42.	CQS		
