@@ -34,17 +34,55 @@ Team includes the following features:
 
 Price based on number of readers
 
+Options
+
+### Print newspaper
+
+Delivery of the FT newspaper to your office, Monday to Saturday by 7:00 am. Please note that time of delivery may vary based on your local distribution centre.
+
+### Republishing
+
+Capitalise on positive media coverage or add authority to your thought leadership content by republishing FT articles or audio visual journalism.
+
 ## Group
 
 Premium access to the FT for a defined number of core and occasional readers.
 
 Everything in Team, plus:
 
-    - No extra charge for readers requiring occasional access to FT journalism
-    - Access on third party platforms
+    No extra charge for readers requiring occasional access to FT journalism
+    Access on third party platforms
     Headline workflow integration
     Customised myFT set up
     Dedicated Customer Success manager and team
 
-Price based on number of
+Price based on number of Core
+readers
+
+### Print newspaper
+
+Delivery of the FT newspaper to your office, Monday to Saturday by 7:00 am. Please note that time of delivery may vary based on your local distribution centre.
+
+### Republishing
+
+Capitalise on positive media coverage or add authority to your thought leadership content by republishing FT articles or audio visual journalism.
+
+### Integrated Solutions
+
+Derive actionable insight from FT journalism with programmatic access to our data.
+
+## Enterprise
+
+Premium access to the FT for
+everyone in your organisation.
+
+Everything in Group, plus:
+
+    Convenient access for everybody in your organisation
+    SAML-based Single Sign On
+    Improved copyright risk management
+    Admin tools to facilitate cross-charging
+    Access to exclusive perks through the Platinum Programme
+
+Price based on number of Core
 readers
