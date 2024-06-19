@@ -2,6 +2,8 @@ API and Development Portal
 --
 This is a link [to the API/Development Portal](https://developer.ft.com/portal/legal).
 
+[FT Github repo](https://github.com/Financial-Times/)
+
 ## API Services
 
 Using our API services, developers can make use of FT assets in websites, intranets and applications in a more flexible way. Each service requires you to enter a licence agreement with the FT, which sets out how you may use the service, the rights available and the basis for any fees payable to the FT. Keys to access the API are provided based on the terms agreed to.
