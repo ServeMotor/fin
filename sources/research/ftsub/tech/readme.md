@@ -19,3 +19,7 @@ A list of applications or tools used (or referenced):
 13. AWS Cloudfront
 14. [Github](https://github.com/Financial-Times)
 15. [Openresty](https://openresty.org/en/)
+16. Instana.io
+17. Cloudflare
+18. Filepicker.io
+19. Cloudinary
