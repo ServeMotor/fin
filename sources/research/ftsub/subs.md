@@ -2,11 +2,10 @@ Basic Overview for Subscribers
 --
 Subscription pricing as of 6/19/2024
 
-## Trial
- 
-*$1 for 4 weeks*
-
-Then $75 per month for Premium Digital access. Cancel or change your plan anytime during your trial.
+- Trial - $1 for 4 weeks
+- Standard Digital - $39 monthly
+- Premium Digital - $75 monthly
+- Print - $50 dollars for 3 months, then $75 per month
 
 ### Global news & analysis 
 
@@ -59,28 +58,3 @@ Focus your day with Lex, our agenda-setting column that’s first to highlight e
 
 Gain valuable insight from our exclusive newsletters including Unhedged, Moral Money and Europe Express, delivered straight to your inbox. Explore our newsletters here.
 
-## Feature icon FT Digital Edition: our digitised print edition More info
-
-A digitised version of our current and previous print editions, including FT Weekend, on your desktop, laptop, tablet and mobile.
-Standard Digital
- 
-*$39 per month*
-
-Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%.
-
-## Premium Digital
-Complete coverage
-
-*$75 per month*
-
-Complete digital access to quality FT journalism with expert analysis from industry leaders. Pay a year upfront and save 20%.
-
-## Feature icon FT Digital Edition: our digitised print edition More info
-
-A digitised version of our current and previous print editions, including FT Weekend, on your desktop, laptop, tablet and mobile.
-
-## Print
- 
-*$50 for 3 months*
-
-Then $75 every 3 months for the next 12 months. FT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday. Introductory offer.
