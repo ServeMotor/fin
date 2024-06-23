@@ -1,3 +1,96 @@
 URL Builder
 --
 For the FT.com website, users can look at the URLS for the links in various pages and dashboards to create their own shortcuts or just type in the URLs themselves.
+
+Looking at the URL pattern for the website structure can let users predict upcoming areas where content will be displayed. The main website structure and presentation is fine to guide users, but if users are interested in thinking about how content is organized and available, other formats can be custom made.
+
+Examples of URL Formats
+
+## URL Examples
+    https://www.ft.com/
+    https://www.ft.com/accessibility
+    https://www.ft.com/world
+    https://www.ft.com/israel-hamas-war
+    https://www.ft.com/global-economy
+    https://www.ft.com/world-uk
+    https://www.ft.com/us
+    https://www.ft.com/china
+    https://www.ft.com/africa
+    https://www.ft.com/asia-pacific
+    https://www.ft.com/emerging-markets
+    https://www.ft.com/europe
+    https://www.ft.com/war-in-ukraine
+    https://www.ft.com/americas
+    https://www.ft.com/middle-east-north-africa
+    https://www.ft.com/uk-economy
+    https://www.ft.com/uk-politics
+    https://www.ft.com/uk-companies
+    https://www.ft.com/personal-finance
+    https://www.ft.com/companies
+    https://www.ft.com/energy
+    https://www.ft.com/financials
+    https://www.ft.com/health
+    https://www.ft.com/industrials
+    https://www.ft.com/media
+    https://www.ft.com/professional-services
+    https://www.ft.com/retail-consumer
+    https://www.ft.com/technology-sector
+    https://www.ft.com/telecoms
+    https://www.ft.com/transport
+    https://www.ft.com/technology
+    https://www.ft.com/markets
+    https://www.ft.com/alphaville
+    https://www.ft.com/cryptofinance
+    https://www.ft.com/capital-markets
+    https://www.ft.com/commodities
+    https://www.ft.com/currencies
+    https://www.ft.com/equities
+    https://www.ft.com/ft-wealth-management
+    https://www.ft.com/moral-money
+    https://www.ft.com/fund-management
+    https://www.ft.com/ft-trading-room
+    https://www.ft.com/climate-capital
+    https://www.ft.com/opinion
+    https://www.ft.com/columnists
+    https://www.ft.com/ft-view
+    https://www.ft.com/the-big-read
+    https://www.ft.com/lex
+    https://www.ft.com/obituaries
+    https://www.ft.com/letters
+    https://www.ft.com/work-careers
+    https://www.ft.com/business-education
+    https://www.ft.com/entrepreneurship
+    https://www.ft.com/recruitment
+    https://www.ft.com/business-books
+    https://www.ft.com/business-travel
+    https://www.ft.com/working-it
+    https://www.ft.com/life-arts
+    https://www.ft.com/arts
+    https://www.ft.com/books
+    https://www.ft.com/food-drink
+    https://www.ft.com/magazine
+    https://www.ft.com/house-home
+    https://www.ft.com/style
+    https://www.ft.com/travel
+    https://www.ft.com/globetrotter
+    https://www.ft.com/summerbooks2024
+    https://www.ft.com/htsi
+    https://www.ft.com/uk-tax
+    https://www.ft.com/philip-stephens
+    https://www.ft.com/katie-martin
+    https://www.ft.com/ft-live-news
+    https://www.ft.com/us-treasury-bonds
+    https://www.ft.com/banking-savings
+    https://www.ft.com/law
+    https://www.ft.com/russian-politics
+    https://www.ft.com/artificial-intelligence
+    https://www.ft.com/uk-energy
+    https://www.ft.com/uk-general-election-2024
+    https://www.ft.com/john-burn-murdoch
+    https://www.ft.com/camilla-cavendish
+    https://www.ft.com/james-kynge
+    https://www.ft.com/moira-oneill
+    https://www.ft.com/gillian-tett
+    https://www.ft.com/sarah-o-connor
+    https://www.ft.com/unhedged
+    https://www.ft.com/markets/insight
