@@ -34,7 +34,7 @@
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CCMP &quot;}">CCMP</td>
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Cabot Microelectronics Corp&quot;}">Cabot Microelectronics Corp</td>
       <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;https://markets.ft.com/data/equities/tearsheet/profile?s=CCMP &quot;}" data-sheets-formula="=HYPERLINK(&quot;https://markets.ft.com/data/equities/tearsheet/profile?s=&quot;&amp;R[0]C[-2])">
-        <a class="in-cell-link" href="https://markets.ft.com/data/equities/tearsheet/summary?s=ENTG:NSQ" target="_blank" rel="noopener noreferrer">https://markets.ft.com/data/equities/tearsheet/profile?s=CCMP </a>
+        <a class="in-cell-link" href="https://markets.ft.com/data/equities/tearsheet/summary?s=ENTG:NSQ" target="_blank" rel="noopener noreferrer">Bought by Entegris</a>
       </td>
     </tr>
     <tr>
