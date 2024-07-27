@@ -1,6 +1,8 @@
 # fin - about
 Lists of companies and links in finance. To be cut and pasted into tables, code, word, excel or text.
-Following categories or different versions are applied. To also include some [tools for reading the Financial Times](https://github.com/ServeMotor/fin/tree/main/sources/research/ftsub) with a subscription.
+Following categories or different versions are applied. To also include some [tools for reading the Financial Times](https://github.com/ServeMotor/fin/tree/main/sources/research/ftsub) with a subscription. I have posted url lists for financial company websites which you can find information on different topics of their research and discussions with investors. 
+
+Typically, 
 
 ## Buysides
 
