@@ -1,4 +1,10 @@
 
+Google Sheets and RSS
+---
+
+The below is the xml which could be used in an app for Google sheets to import the data or a function like IMPORTXML.
+
+
 この XML ファイルにはスタイル情報が関連付けられていないようです。以下にドキュメントツリーを表示します。
 <rss version="2.0">
 <channel>

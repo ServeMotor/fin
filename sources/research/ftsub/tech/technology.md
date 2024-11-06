@@ -1,3 +1,9 @@
+RSS Feed example
+---
+
+The below shows an example of an RSS format for articles in the FT.
+You can find out different elements of the RSS feed so you can pull the information into your own news reader, or use Google sheets to ingest the information and show it via a function like IMPORTXML.
+
     <rss version="2.0">
     <channel>
     <title>Technology</title>
