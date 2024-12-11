@@ -1,8 +1,33 @@
 # fin - about
 Lists of companies and links in finance. To be cut and pasted into tables, code, word, excel or text.
-Following categories or different versions are applied. To also include some [tools for reading the Financial Times](https://github.com/ServeMotor/fin/tree/main/sources/research/ftsub) with a subscription. I have posted url lists for financial company websites which you can find information on different topics of their research and discussions with investors. 
+Following categories or different versions are applied. To also include some [tools for reading news websites, including the Financial Times](https://github.com/ServeMotor/fin/tree/main/sources/research/ftsub) with a subscription. I will put RSS feeds and url lists for media websites which you can find information on different topics for finance and the global economy. 
 
-Typically, 
+Media Websites (English)
+--
+1. [The Washington Post](www.washingtonpost.com)
+2. [The New York Times](www.nyt.com)
+3. [The Wall Street Journal](www.wsj.com)
+4. [The Economist](www.economist.com)
+5. [The Financial Times](www.ft.com)
+6. [Reuters](www.reuters.com)
+7. [Bloomberg](www.bloomberg.com)
+
+## News Aggregators
+1. [Yahoo News](https://news.yahoo.com)
+2. [Google News](news.google.com)
+
+
+(Japanese)
+1. [The Asahi Shimbun](www.asahi.com)
+2. [Nihon Keizai Shimbun](www.nikkei.com)
+3. [The Mainichi Shimbun](www.mainichi.com)
+
+## News Aggregators 
+1. [Yahoo Japan](news.yahoo.co.jp)
+
+
+Financial Companies
+---
 
 ## Buysides
 

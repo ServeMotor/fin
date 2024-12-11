@@ -1,4 +1,4 @@
-// google // google function for pulling FT.com headlines
+// google // google function for pulling FT.com headlines. Put into a google sheet.
 
 function myFunction() {
   function fetchXML() {
