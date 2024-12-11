@@ -14,7 +14,7 @@ Media Websites (English)
 
 ## News Aggregators
 1. [Yahoo News](https://news.yahoo.com)
-2. [Google News](news.google.com)
+2. [Google News](https://news.google.com)
 
 
 (Japanese)
@@ -23,7 +23,7 @@ Media Websites (English)
 3. [The Mainichi Shimbun](www.mainichi.com)
 
 ## News Aggregators 
-1. [Yahoo Japan](news.yahoo.co.jp)
+1. [Yahoo Japan](https://news.yahoo.co.jp)
 
 
 Financial Companies
