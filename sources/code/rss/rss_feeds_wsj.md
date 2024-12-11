@@ -4,11 +4,17 @@ Google Functions - WSJ.com RSS Feeds
 
 Here are some google functions to use in a google sheet cell to pull Wall Street Journal RSS feeds into the spreadsheet. It uses the IMPORTXML Function.
 
-1. Business News RSS Feed:  =IMPORTXML("https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml", "//item",)
+1. Business News RSS Feed 
+    
+     =IMPORTXML("https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml", "//item",)
 
-2. Markets News RSS Feed: =IMPORTXML("https://feeds.a.dj.com/rss/RSSMarketsMain.xml", "//item",)
+2. Markets News RSS Feed 
 
-3. World News RSS Feed: =IMPORTXML("https://feeds.a.dj.com/rss/RSSWorldNews.xml", "//item",)
+    =IMPORTXML("https://feeds.a.dj.com/rss/RSSMarketsMain.xml", "//item",)
+
+3. World News RSS Feed
+
+    =IMPORTXML("https://feeds.a.dj.com/rss/RSSWorldNews.xml", "//item",)
 
 
 Google App Script Function with an RSS Feed - Doesn't work but an example of the Google App Script code. 
