@@ -4,7 +4,7 @@ Following categories or different versions are applied. To also include some [to
 
 Media Websites (English)
 --
-1. [The Washington Post](www.washingtonpost.com)
+1. [The Washington Post](https://www.washingtonpost.com)
 2. [The New York Times](www.nyt.com)
 3. [The Wall Street Journal](www.wsj.com)
 4. [The Economist](www.economist.com)
